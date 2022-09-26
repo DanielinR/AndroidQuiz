@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string-array
+        name="preguntas_8">
+
+        <item>arte</item>
+        <item>¿Qué artista pintó la Capilla Sixtina?</item>
+        <item>Sandro Botticelli.</item>
+        <item>Miguel Angel</item>
+        <item>Leonardo da Vinci</item>
+        <item>Donatello</item>
+        <item>2</item>
+        <item>abc</item>
+
+        <item>ciencia</item>
+        <item>¿Cuál es la velocidad de la luz?</item>
+        <item>300.000.000 km/s</item>
+        <item>300.000.000 m/s</item>
+        <item>No es mensurable</item>
+        <item>1</item>
+        <item>1</item>
+        <item>chip</item>
+
+        <item>historia</item>
+        <item>¿En qué año descubrió Colón América?</item>
+        <item>852</item>
+        <item>1492</item>
+        <item>1832</item>
+        <item>2</item>
+        <item>2</item>
+        <item>radio</item>
+
+        <item>geografia</item>
+        <item>¿Cuál es el río más caudaloso del mundo?</item>
+        <item>El Misisipi</item>
+        <item>El Nilo</item>
+        <item>El Congo</item>
+        <item>El Amazonas</item>
+        <item>4</item>
+        <item>abc</item>
+
+        <item>deporte</item>
+        <item>¿Qué dos atletas tienen las dos mejores marcas de velocidad en los 100 metros lisos?</item>
+        <item>Usain Bolt</item>
+        <item>Christian Coleman</item>
+        <item>Tyson Gay</item>
+        <item>1</item>
+        <item>3</item>
+        <item>check</item>
+
+        <item>entretenimiento</item>
+        <item>¿Cómo se llama la madre de Simba en la película de Disney "El Rey León"?</item>
+        <item>Nala</item>
+        <item>Sarabi</item>
+        <item>Kiara</item>
+        <item>2</item>
+        <item>2</item>
+        <item>chip</item>
+
+        <item>deporte</item>
+        <item>¿Cada cuántos años se celebran unos Juegos Olímpicos?</item>
+        <item>Cada año,Cada dos años</item>
+        <item>Cada tres años,Cada cuatro años</item>
+        <item>Cada cinco años,Cada seis años</item>
+        <item>Cada siete años,Cada ocho años</item>
+        <item>2</item>
+        <item>listview</item>
+
+        <item>historia</item>
+        <item>¿Fue Julio Cesar emperador del Imperio Romano?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>2</item>
+        <item>toggle</item>
+
+
+        <item>geografia</item>
+        <item>¿Cuáles de las siguientes montañas forman parte de las 10 más altas del mundo?</item>
+        <item>El Kilimanjaro.</item>
+        <item>El K2.</item>
+        <item>El Everest.</item>
+        <item>2</item>
+        <item>3</item>
+        <item>switch</item>
+
+        <item>arte</item>
+        <item>¿De qué estilo arquitectónico es la catedral de Notre Dame?</item>
+        <item>Romanico</item>
+        <item>Gotico</item>
+        <item>Barroco</item>
+        <item>2</item>
+        <item>2</item>
+        <item>radio</item>
+
+        <item>ciencia</item>
+        <item>La fórmula "E=mc2", ¿en qué teoría científica aparece?</item>
+        <item>La tercera ley de Newton</item>
+        <item>Ley de la termodinqmica</item>
+        <item>La segunda ley de Newton</item>
+        <item>La teoría de la relatividad</item>
+        <item>4</item>
+        <item>abc</item>
+
+        <item>entretenimiento</item>
+        <item>¿Cual de estos pokemons es Snorlax?</item>
+        <item>snorlax</item>
+        <item>charmander</item>
+        <item>makuhita</item>
+        <item>pikachu</item>
+        <item>1</item>
+        <item>4imagenes</item>
+
+        <item>geografia</item>
+        <item>¿Cuál es la capital de Brasil?</item>
+        <item>Porto Alegre</item>
+        <item>Brasilia</item>
+        <item>Río de Janeiro</item>
+        <item>Sao Paulo</item>
+        <item>2</item>
+        <item>abc</item>
+
+        <item>historia</item>
+        <item>¿Quién fue el dictador que provocó y lideró la revolcuión cubana?</item>
+        <item>Fidel Castro</item>
+        <item>Che Guevara</item>
+        <item>Rafael Trujillo</item>
+        <item>1</item>
+        <item>1</item>
+        <item>chip</item>
+
+        <item>entretenimiento</item>
+        <item>¿Cual de los siguientes es el actor que interpreta a Legolas en El Señor de los Anillos?</item>
+        <item>nicolas_cage</item>
+        <item>orlando_bloom</item>
+        <item>johnny_dep</item>
+        <item>john_travolta</item>
+        <item>2</item>
+        <item>4imagenes</item>
+
+        <item>deporte</item>
+        <item>¿Es Brasil la selección de futbol que ha ganado más Mundiales hasta el momento?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>1</item>
+        <item>toggle</item>
+
+        <item>ciencia</item>
+        <item>¿Por qué descubrimiento fue famosa Marie Curie?</item>
+        <item>La cura al cancer</item>
+        <item>La radiactividad</item>
+        <item>Los antibioticos</item>
+        <item>2</item>
+        <item>2</item>
+        <item>radio</item>
+
+        <item>arte</item>
+        <item>¿Cuales de estos escritores pertenecieron a la generación del 27?</item>
+        <item>Federico García Lorca</item>
+        <item>Luis Cernuda</item>
+        <item>Lope de Vega</item>
+        <item>1</item>
+        <item>2</item>
+        <item>switch</item>
+
+        <item>entretenimiento</item>
+        <item>¿Cuantos subscriptores tiene AuronPlay en Youtube en octubre de 2021?</item>
+        <item>2.5M de subscriptores</item>
+        <item>28.5M de subscriptores</item>
+        <item>40.5M de subscriptores</item>
+        <item>2</item>
+        <item>2</item>
+        <item>chip</item>
+
+        <item>deporte</item>
+        <item>¿Qué arte marcial fue desarrollado para parecerse a un baile?</item>
+        <item>Jiu Jitsu</item>
+        <item>Karate</item>
+        <item>Capoeira</item>
+        <item>3</item>
+        <item>3</item>
+        <item>radio</item>
+
+        <item>ciencia</item>
+        <item>¿Cuál es el nombre técnico del miedo o fobia a las alturas?</item>
+        <item>Alturafobia</item>
+        <item>Miedo a las alturas</item>
+        <item>ApoFobia</item>
+        <item>Acrofobia</item>
+        <item>4</item>
+        <item>abc</item>
+
+        <item>geografia</item>
+        <item>¿Cuál de estos paises es Bosnia Herzegovina?</item>
+        <item>armenia</item>
+        <item>nigeria</item>
+        <item>ecuador</item>
+        <item>bosnia</item>
+        <item>4</item>
+        <item>4imagenes</item>
+
+        <item>arte</item>
+        <item>¿El autor de "El Grito" es Claude Monet?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>2</item>
+        <item>toggle</item>
+
+        <item>historia</item>
+        <item>¿Cuánto duró la Guerra de los Cien Años?</item>
+        <item>100 años</item>
+        <item>200 años</item>
+        <item>99 años</item>
+        <item>116 años</item>
+        <item>4</item>
+        <item>abc</item>
+
+
+    </string-array>
+
+
+    <string name="historia">Los quiziks han sido arrestados por no pagar el winRar. Para salvar a cada quizik acierta las 4 preguntas de su categoria. \n\nIntenta salvarlos a todos.</string>
+
+
+
+</resources>

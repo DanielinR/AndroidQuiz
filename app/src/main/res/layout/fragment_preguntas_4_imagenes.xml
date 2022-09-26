@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arte"
+    android:id="@+id/layout_preguntas4_imagenes"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/imagenes_fondo"
+        ></ImageView>
+    <TextView
+        android:id="@+id/pregunta_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.36"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:fontFamily="@font/coming_soon"
+        android:maxWidth="230dp"/>
+
+    <ImageButton
+
+        android:id="@+id/respuesta_1"
+
+        android:layout_width="140dp"
+
+        android:layout_height="140dp"
+        android:text=""
+        android:src="@drawable/fondocarcelborroso"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.18"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.63"
+        android:gravity="center"/>
+    />
+
+    <ImageButton
+        android:text=""
+        android:id="@+id/respuesta_2"
+
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/buttonjugarazul"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintVertical_bias="0.63"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"/>
+    />
+
+    <ImageButton
+        android:text=""
+        android:id="@+id/respuesta_3"
+
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/button_jugar"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.18"
+        app:layout_constraintVertical_bias="0.86"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"/>
+    />
+
+    <ImageButton
+        android:text=""
+        android:id="@+id/respuesta_4"
+
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/fondo_nitido"
+
+        style="@style/Widget.MaterialComponents.Button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintVertical_bias="0.86"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"/>
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

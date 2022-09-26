@@ -1,0 +1,88 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/gameover"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_gravity="center|top"
+        android:layout_width="240dp"
+        android:layout_height="260dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="10dp"
+
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/text_puntuacion_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Puntuacion total: \n"
+
+            android:gravity="center"
+            android:layout_gravity="center|top"
+            android:textColor="#FFFFFF"
+            android:fontFamily="@font/mat_saleh"
+            android:maxWidth="230dp"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:id="@+id/text_acertadas"
+            android:layout_width="257dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="0dp"
+            android:fontFamily="@font/mat_saleh"
+            android:gravity="center"
+            android:maxWidth="240dp"
+            android:text="Aciertos arte: 0 \n Aciertos ciencia: 0 \nAciertos geografia: 0 \nAciertos historia: 0 \nAciertos entretenimiento: 0 \nAciertos deporte: 0 \n"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:orientation="vertical"
+
+        >
+
+
+        <Button
+            android:id="@+id/button_volver_a_jugar"
+            android:layout_width="243dp"
+            android:layout_height="132dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="40dp"
+            android:background="@drawable/volverajugarnegro"
+            android:text="Volver a jugar"
+            android:fontFamily="@font/mat_saleh"
+            android:textSize="35dp"
+
+            ></Button>
+
+        <Button
+            android:id="@+id/button_salir"
+            android:layout_width="287dp"
+            android:layout_height="94dp"
+            android:layout_marginBottom="60dp"
+            android:background="@drawable/salirnegro"
+            android:text="Salir"
+            android:fontFamily="@font/mat_saleh"
+            android:textSize="35dp"></Button>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

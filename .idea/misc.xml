@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/drawable/empty.xml" value="0.23717948717948717" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23541666666666666" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/drawable/style.xml" value="0.26324786324786326" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/activity_Score.xml" value="0.22905982905982905" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/activity_historia.xml" value="0.33" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/activity_questions.xml" value="0.25" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/activity_score.xml" value="0.31794871794871793" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_ciancia.xml" value="0.20833333333333334" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_popup_acertada.xml" value="0.24871794871794872" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_popup_fallada.xml" value="0.22905982905982905" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_4_imagenes.xml" value="0.22905982905982905" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_4_opciones.xml" value="0.24871794871794872" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_4_opciones_Imagenmuestra.xml" value="0.2616279069767442" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_4_opciones_imagenmuestra.xml" value="0.31794871794871793" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_arte.xml" value="0.31794871794871793" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_checkbox.xml" value="0.24871794871794872" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_chip.xml" value="0.22905982905982905" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_ciencia.xml" value="0.20833333333333334" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_deportes.xml" value="0.26666666666666666" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_listview.xml" value="0.22905982905982905" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_radio.xml" value="0.31794871794871793" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_switch.xml" value="0.33" />
+        <entry key="..\:/QuizAndroidApp/app/src/main/res/layout/fragment_preguntas_toggle.xml" value="0.22905982905982905" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
